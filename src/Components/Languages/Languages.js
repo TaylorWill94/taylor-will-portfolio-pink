@@ -3,14 +3,14 @@ import "./Languages.css";
 function Languages() {
   return (
     <div className="languages">
-      <h1 className="lang-title">Languages I know</h1>
-      <h3 className="lang">JavaScript</h3>
-      <h3 className="lang">CSS</h3>
-      <h3 className="lang">HTML</h3>
-      <h3 className="lang">React</h3>
-      <h3 className="lang">TypeScript</h3>
-      <h3 className="lang">SQL</h3>
-      <h3 className="lang">Node.Js</h3>
+      <h1 className="lang-title">languages i know</h1>
+      <h3 className="lang">javaScript</h3>
+      <h3 className="lang">css</h3>
+      <h3 className="lang">html</h3>
+      <h3 className="lang">react</h3>
+      <h3 className="lang">typescript</h3>
+      <h3 className="lang">sql</h3>
+      <h3 className="lang">node.js</h3>
     </div>
   );
 }

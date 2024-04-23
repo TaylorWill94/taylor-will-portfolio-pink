@@ -4,7 +4,7 @@ import budget from "../Images/budget.png";
 function Portfolio() {
   return (
     <div className="Portfolio">
-      <h1 className="project-title">Projects I've Created</h1>
+      <h1 className="project-title">projects i've created</h1>
 
       <div className="budget-bae-sec">
         <a
@@ -13,7 +13,10 @@ function Portfolio() {
           rel="noreferrer"
           alt="budget-bae"
         >
-          <h3 className="proj-desc">Budget Bae</h3>
+          <h3 className="proj-desc">budget bae</h3>
+          <h3 className="budget-desc">
+            A project dedicated to finaical freedom. Keep a budget.
+          </h3>
         </a>
 
         <img
@@ -29,7 +32,7 @@ function Portfolio() {
         rel="noreferrer"
         alt="rock-the-code"
       >
-        <h3 className="proj-desc">Rock The Code</h3>
+        <h3 className="proj-desc">rock the code</h3>
       </a>
     </div>
   );
