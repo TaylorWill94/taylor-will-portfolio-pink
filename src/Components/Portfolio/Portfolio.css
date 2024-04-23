@@ -4,7 +4,7 @@
     flex-direction: column;
     font-family: "Dancing Script", cursive;
     /* margin: 50px; */
-    padding: 50px;
+    padding: 80px;
     text-align: center;
     background: #d4bac6;
     color: rgb(234, 101, 181);
@@ -28,19 +28,19 @@
 }
 
 @media screen and (min-width: 798px) {
-  .Portfolio {
+  /* .Portfolio {
     color: yellow;
-  }
+  } */
 }
 
 @media screen and (min-width: 987px) {
-  .Portfolio {
+  /* .Portfolio {
     color: rgb(240, 77, 104);
-  }
+  } */
 }
 
 @media screen and (min-width: 1278px) {
-  .Portfolio {
+  /* .Portfolio {
     color: green;
-  }
+  } */
 }

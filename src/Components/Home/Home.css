@@ -25,19 +25,19 @@
 }
 
 @media screen and (min-width: 798px) {
-  .Home {
+  /* .Home {
     color: yellow;
-  }
+  } */
 }
 
 @media screen and (min-width: 987px) {
-  .Home {
+  /* .Home {
     color: rgb(240, 77, 104);
-  }
+  } */
 }
 
 @media screen and (min-width: 1278px) {
-  .Home {
+  /* .Home {
     color: green;
-  }
+  } */
 }
