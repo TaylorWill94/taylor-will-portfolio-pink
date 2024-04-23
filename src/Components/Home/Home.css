@@ -1,0 +1,21 @@
+* {
+  background: #d4bac6;
+  /* color: rgb(234, 101, 181); */
+}
+
+@media screen and (min-width: 344px) {
+  .Home {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 50px;
+    text-align: center;
+    color: rgb(234, 101, 181);
+  }
+}
+
+@media screen and (min-width: 376px) {
+  .Home {
+    color: rgb(223, 90, 49);
+  }
+}
