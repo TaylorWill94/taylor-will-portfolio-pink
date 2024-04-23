@@ -14,3 +14,21 @@
     color: white;
   }
 }
+
+@media screen and (min-width: 798px) {
+  .languages {
+    color: yellow;
+  }
+}
+
+@media screen and (min-width: 987px) {
+  .languages {
+    color: rgb(240, 77, 104);
+  }
+}
+
+@media screen and (min-width: 1278px) {
+  .languages {
+    color: green;
+  }
+}

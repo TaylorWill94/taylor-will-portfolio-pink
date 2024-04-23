@@ -14,3 +14,21 @@
     color: white;
   }
 }
+
+@media screen and (min-width: 798px) {
+  .Portfolio {
+    color: yellow;
+  }
+}
+
+@media screen and (min-width: 987px) {
+  .Portfolio {
+    color: rgb(240, 77, 104);
+  }
+}
+
+@media screen and (min-width: 1278px) {
+  .Portfolio {
+    color: green;
+  }
+}
