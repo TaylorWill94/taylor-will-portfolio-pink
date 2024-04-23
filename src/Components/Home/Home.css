@@ -36,6 +36,18 @@
   /* .Home {
     color: rgb(240, 77, 104);
   } */
+
+  .Home {
+    padding: 150px;
+  }
+
+  .home-title {
+    font-size: 52px;
+  }
+
+  .home-desc {
+    font-size: 28px;
+  }
 }
 
 @media screen and (min-width: 1278px) {

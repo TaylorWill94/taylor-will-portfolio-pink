@@ -10,9 +10,9 @@ function Portfolio() {
         rel="noreferrer"
         alt="budget-bae"
       >
-        <h3>Budget Bae</h3>
+        <h3 className="proj-desc">Budget Bae</h3>
       </a>
-      <h3>Rock The Code</h3>
+      <h3 className="proj-desc">Rock The Code</h3>
     </div>
   );
 }
