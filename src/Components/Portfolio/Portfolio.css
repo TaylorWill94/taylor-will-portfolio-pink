@@ -2,8 +2,8 @@
 
 @media screen and (min-width: 344px) {
   .Portfolio {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
     align-items: center;
     font-family: "Dancing Script", cursive;
     height: 75vh;
@@ -42,6 +42,11 @@
   /* .Portfolio {
     color: yellow;
   } */
+  .budget-bae-sec {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
 }
 
 @media screen and (min-width: 987px) {
