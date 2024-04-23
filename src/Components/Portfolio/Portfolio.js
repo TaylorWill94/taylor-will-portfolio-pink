@@ -4,7 +4,7 @@ function Portfolio() {
   return (
     <div className="Portfolio">
       <h3>Here are some projects I've worked on</h3>
-      <p>Bydget Bae</p>
+      <p>Budget Bae</p>
       <p>Rock The Code</p>
     </div>
   );

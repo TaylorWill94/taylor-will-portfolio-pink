@@ -1,5 +1,5 @@
 @media screen and (min-width: 344px) {
-  .Portfolio {
+  .languages {
     display: flex;
     flex-direction: column;
     margin: 20px;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (min-width: 376px) {
-  .Portfolio {
+  .languages {
     color: white;
   }
 }
