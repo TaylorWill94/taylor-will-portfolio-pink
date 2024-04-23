@@ -4,7 +4,7 @@ import budget from "../Images/budget.png";
 function Portfolio() {
   return (
     <div className="Portfolio">
-      <h1 className="project-title">projects i've created</h1>
+      <h1 className="project-title">Projects</h1>
 
       <div className="budget-bae-sec">
         <a

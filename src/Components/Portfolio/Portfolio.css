@@ -4,18 +4,18 @@
 @media screen and (min-width: 344px) {
   .Portfolio {
     align-items: center;
-    font-family: "Dancing Script", cursive;
+    font-family: "VT323", monospace;
     height: 75vh;
     padding: 80px;
     text-align: center;
-    background: #d4bac6;
-    color: rgb(234, 101, 181);
+    background: #c6d5ff;
+    color: rgb(0, 0, 0);
   }
 
   a {
     cursor: pointer;
     text-decoration: none;
-    color: rgb(234, 101, 181);
+    color: black;
   }
 
   .proj-desc {
@@ -38,11 +38,11 @@
 
 @media screen and (min-width: 376px) {
   .Portfolio {
-    color: white;
+    color: #ffffff;
   }
 
   a {
-    color: white;
+    color: black;
   }
 }
 
@@ -51,14 +51,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background: #c2dcf3;
+    background: #ffffff;
     padding: 50px;
-    border: 1px solid white;
+    margin: 35px;
+    box-shadow: 10px 20px grey;
+    border-radius: 45px;
   }
 
   .budget-desc {
-    font-family: "Caveat Brush", cursive;
-    border: 1px solid white;
+    font-family: "VT323", monospace;
     padding: 50px;
   }
 }
