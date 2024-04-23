@@ -1,4 +1,5 @@
 import "./Portfolio.css";
+import budget from "../Images/budget.png";
 
 function Portfolio() {
   return (
@@ -12,7 +13,17 @@ function Portfolio() {
       >
         <h3 className="proj-desc">Budget Bae</h3>
       </a>
-      <h3 className="proj-desc">Rock The Code</h3>
+
+      <img className="budget-photo" src={budget} width="300" alt="budget-bae" />
+
+      <a
+        href="https://rockthecode.netlify.app/"
+        target="_blank"
+        rel="noreferrer"
+        alt="rock-the-code"
+      >
+        <h3 className="proj-desc">Rock The Code</h3>
+      </a>
     </div>
   );
 }
