@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=VT323&display=swap");
+
 @media screen and (min-width: 344px) {
   .Portfolio {
     display: flex;
@@ -14,6 +16,10 @@
     cursor: pointer;
     text-decoration: none;
     color: rgb(234, 101, 181);
+  }
+
+  .proj-desc {
+    font-family: "VT323", monospace;
   }
 }
 
