@@ -24,7 +24,9 @@
   }
 
   .budget-photo {
-    -webkit-animation: fadein 5s;
+    box-shadow: 10px 10px 15px rgb(231, 184, 225);
+    border-radius: 12px;
+    -webkit-animation: fadein 10s;
   }
 
   @keyframes fadein {
@@ -34,6 +36,25 @@
     to {
       opacity: 1;
     }
+  }
+
+  .budget-bae-sec {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: #fcdbf2;
+    padding: 50px;
+    margin: 35px;
+    /* box-shadow: 10px 20px grey; */
+    box-shadow: 10px 20px rgb(223, 196, 196);
+    border-radius: 45px;
+  }
+
+  .budget-desc {
+    font-family: "VT323", monospace;
+    padding: 50px;
+    color: white;
+    font-size: 28px;
   }
 }
 
