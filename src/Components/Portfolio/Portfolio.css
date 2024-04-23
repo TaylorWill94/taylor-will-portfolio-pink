@@ -3,21 +3,26 @@
     display: flex;
     flex-direction: column;
     font-family: "Dancing Script", cursive;
-    margin: 50px;
+    /* margin: 50px; */
     padding: 50px;
     text-align: center;
+    background: #d4bac6;
     color: rgb(234, 101, 181);
   }
 
   a {
     cursor: pointer;
     text-decoration: none;
-    color: white;
+    color: rgb(234, 101, 181);
   }
 }
 
 @media screen and (min-width: 376px) {
   .Portfolio {
+    color: white;
+  }
+
+  a {
     color: white;
   }
 }

@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
 
 * {
-  background: #d4bac6;
+  /* background: #d4bac6; */
   /* color: rgb(234, 101, 181); */
 }
 
@@ -19,7 +19,8 @@
 
 @media screen and (min-width: 376px) {
   .Home {
-    color: white;
+    color: #d4bac6;
+    background-color: white;
   }
 }
 
