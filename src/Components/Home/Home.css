@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+
 * {
   background: #d4bac6;
   /* color: rgb(234, 101, 181); */
@@ -7,6 +9,7 @@
   .Home {
     display: flex;
     flex-direction: column;
+    font-family: "Dancing Script", cursive;
     margin: 50px;
     padding: 50px;
     text-align: center;
