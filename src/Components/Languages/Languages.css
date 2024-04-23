@@ -28,6 +28,18 @@
   /* .languages {
     color: rgb(240, 77, 104);
   } */
+
+  .languages {
+    padding: 150px;
+  }
+
+  .lang-title {
+    font-size: 52px;
+  }
+
+  .lang {
+    font-size: 28px;
+  }
 }
 
 @media screen and (min-width: 1278px) {
