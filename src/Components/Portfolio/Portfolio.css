@@ -2,6 +2,7 @@
   .Portfolio {
     display: flex;
     flex-direction: column;
+    font-family: "Dancing Script", cursive;
     margin: 50px;
     padding: 50px;
     text-align: center;

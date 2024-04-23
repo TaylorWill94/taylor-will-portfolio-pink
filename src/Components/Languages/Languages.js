@@ -3,7 +3,7 @@ import "./Languages.css";
 function Languages() {
   return (
     <div className="languages">
-      <h2>Languages I know</h2>
+      <h1>Languages I know</h1>
       <p>JavaScript</p>
       <p>React</p>
       <p>TypeScript</p>

@@ -3,7 +3,7 @@ import "./Portfolio.css";
 function Portfolio() {
   return (
     <div className="Portfolio">
-      <h3>Here are some projects I've worked on</h3>
+      <h1>Here are some projects I've worked on</h1>
       <p>Budget Bae</p>
       <p>Rock The Code</p>
     </div>
