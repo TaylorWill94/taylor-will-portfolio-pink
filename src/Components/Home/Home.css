@@ -22,6 +22,22 @@
   .home-desc {
     font-family: "VT323", monospace;
   }
+
+  .home-desc {
+    -webkit-animation: change 5s infinite;
+  }
+
+  @keyframes change {
+    0% {
+      color: rgb(231, 136, 231);
+    }
+    50% {
+      color: rgb(213, 169, 210);
+    }
+    100% {
+      color: rgb(154, 158, 236);
+    }
+  }
 }
 
 @media screen and (min-width: 376px) {
