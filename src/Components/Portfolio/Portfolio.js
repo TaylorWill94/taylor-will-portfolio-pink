@@ -17,7 +17,15 @@ function Portfolio() {
           <h3 className="budget-desc">
             A project dedicated to finaical freedom. Keep a budget.
           </h3>
-          <h2 className="git">GitHub</h2>
+
+          <a
+            href="https://github.com/TaylorWill94/budget-app-frontend"
+            target="_blank"
+            rel="noreferrer"
+            alt="budget-bae-frontend"
+          >
+            <h2 className="git">GitHub</h2>
+          </a>
         </a>
 
         <img
