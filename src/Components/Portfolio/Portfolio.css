@@ -5,8 +5,8 @@
   .Portfolio {
     align-items: center;
     font-family: "VT323", monospace;
-    /* height: 60vh;
-    padding: 40px; */
+    height: 60vh;
+    padding: 40px;
     text-align: center;
     background: #c6d5ff;
     color: rgb(255, 255, 255);
