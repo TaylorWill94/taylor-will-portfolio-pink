@@ -12,9 +12,9 @@
     color: rgb(255, 255, 255);
   }
 
-  .project-title {
+  /* .project-title {
     font-size: 38px;
-  }
+  } */
 
   a {
     cursor: pointer;
@@ -23,7 +23,7 @@
   }
 
   .proj-desc {
-    font-size: 24px;
+    /* font-size: 24px; */
     font-family: "VT323", monospace;
     color: white;
   }
@@ -46,9 +46,9 @@
 
   .budget-desc {
     font-family: "VT323", monospace;
-    padding: 10px;
+    /* padding: 10px; */
     color: white;
-    font-size: 22px;
+    /* font-size: 22px; */
   }
 
   .budget-photo {
