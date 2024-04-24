@@ -28,12 +28,12 @@ function Portfolio() {
           </a>
         </a>
 
-        <img
+        {/* <img
           className="budget-photo"
           src={budget}
           width="300"
           alt="budget-bae"
-        />
+        /> */}
       </div>
 
       {/* <div className="rock-sec">
