@@ -1,5 +1,5 @@
 import "./Portfolio.css";
-// import budget from "../Images/budget.png";
+import budget from "../Images/budget.png";
 
 function Portfolio() {
   return (
@@ -28,12 +28,12 @@ function Portfolio() {
           </a>
         </a>
 
-        {/* <img
+        <img
           className="budget-photo"
           src={budget}
           width="300"
           alt="budget-bae"
-        /> */}
+        />
       </div>
 
       {/* <div className="rock-sec">
