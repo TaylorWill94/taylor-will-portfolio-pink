@@ -28,6 +28,10 @@
     color: white;
   }
 
+  .git {
+    color: white;
+  }
+
   .budget-bae-sec {
     display: flex;
     flex-direction: column;

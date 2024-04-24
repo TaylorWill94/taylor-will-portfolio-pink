@@ -17,7 +17,7 @@ function Portfolio() {
           <h3 className="budget-desc">
             A project dedicated to finaical freedom. Keep a budget.
           </h3>
-          <h2>GitHub</h2>
+          <h2 className="git">GitHub</h2>
         </a>
 
         <img
@@ -28,7 +28,7 @@ function Portfolio() {
         />
       </div>
 
-      <div className="rock-sec">
+      {/* <div className="rock-sec">
         <a
           href="https://rockthecode.netlify.app/"
           target="_blank"
@@ -37,7 +37,7 @@ function Portfolio() {
         >
           <h3 className="proj-desc">rock the code</h3>
         </a>
-      </div>
+      </div> */}
     </div>
   );
 }
