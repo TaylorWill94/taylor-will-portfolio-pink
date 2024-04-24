@@ -9,7 +9,7 @@
     padding: 50px;
     height: 75vh;
     text-align: center;
-    color: rgb(234, 101, 181);
+    color: #fcdbf2;
     cursor: pointer;
   }
 
@@ -20,7 +20,7 @@
 
 @media screen and (min-width: 376px) {
   .languages {
-    color: #d4bac6;
+    color: #fcdbf2;
   }
 }
 
