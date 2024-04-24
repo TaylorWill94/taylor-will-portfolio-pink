@@ -53,7 +53,7 @@
 
   .budget-photo {
     width: 150px;
-    margin: 20px;
+    /* margin: 20px; */
     box-shadow: 10px 10px 15px rgb(231, 184, 225);
     border-radius: 12px;
     -webkit-animation: fadein 10s;
