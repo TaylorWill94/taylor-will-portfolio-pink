@@ -15,7 +15,8 @@ function Portfolio() {
         >
           <h3 className="proj-desc">budget bae</h3>
           <h3 className="budget-desc">
-            A project dedicated to finaical freedom. Keep a budget.
+            A project dedicated to finaical freedom. Let Budget Bae help you
+            budget your bills and expenses.
           </h3>
 
           <a
