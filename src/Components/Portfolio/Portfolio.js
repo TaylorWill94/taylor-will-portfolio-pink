@@ -1,5 +1,5 @@
 import "./Portfolio.css";
-import budget from "../Images/budget.png";
+// import budget from "../Images/budget.png";
 
 function Portfolio() {
   return (
