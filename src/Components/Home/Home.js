@@ -6,7 +6,7 @@ function Home() {
       <h3 className="home-desc">
         Hi, my name is Taylor and I am Fullstack Developer based out of NYC. I
         have always had a passion for web development since the days of Blogger
-        (iykyk). I like to make beautiful websites with UI being the focus.
+        (iykyk). I aim to make beautiful websites with UI being the main focus.
       </h3>
     </div>
   );
